@@ -1,0 +1,11 @@
+C:\Users\francisco\Documents\development\app C#\calculator\bin\Debug\netcoreapp2.2\calculator.deps.json
+C:\Users\francisco\Documents\development\app C#\calculator\bin\Debug\netcoreapp2.2\calculator.runtimeconfig.json
+C:\Users\francisco\Documents\development\app C#\calculator\bin\Debug\netcoreapp2.2\calculator.runtimeconfig.dev.json
+C:\Users\francisco\Documents\development\app C#\calculator\bin\Debug\netcoreapp2.2\calculator.dll
+C:\Users\francisco\Documents\development\app C#\calculator\bin\Debug\netcoreapp2.2\calculator.pdb
+C:\Users\francisco\Documents\development\app C#\calculator\obj\Debug\netcoreapp2.2\calculator.csprojAssemblyReference.cache
+C:\Users\francisco\Documents\development\app C#\calculator\obj\Debug\netcoreapp2.2\calculator.csproj.CoreCompileInputs.cache
+C:\Users\francisco\Documents\development\app C#\calculator\obj\Debug\netcoreapp2.2\calculator.AssemblyInfoInputs.cache
+C:\Users\francisco\Documents\development\app C#\calculator\obj\Debug\netcoreapp2.2\calculator.AssemblyInfo.cs
+C:\Users\francisco\Documents\development\app C#\calculator\obj\Debug\netcoreapp2.2\calculator.dll
+C:\Users\francisco\Documents\development\app C#\calculator\obj\Debug\netcoreapp2.2\calculator.pdb
