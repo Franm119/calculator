@@ -17,14 +17,14 @@ namespace calculator
         /// <param name="num1">Varible inicializadas a cero.</param>
         /// <param name="num2">Varible inicializadas a cero.</param>
         /// <typeparam name="Console.WriteLine()">Escribe un texto en pantalla y avanza de línea</typeparam>
-        /// <typeparam name="Convert.ToInt32()">Para convertir un valor especificado en un entero con signo de 32 bits.</typeparam>
+        /// <typeparam name="Convert.ToDouble()">Para convertir un valor especificado en un entero con signo de 32 bits.</typeparam>
         /// <typeparam name="Console.ReadLine()">Capturar el dato introducido por el usuario.</typeparam>
         /// <typeparam name="Write()">Escribe lo que sea sin añadir el carácter de fin de línea a la cadena.</typeparam> 
         /// <typeparam name="Console.ReadKey()">Obtiene la siguiente tecla pulsada por el usuario.</typeparam>
         static void Main(string[] args)
         {
             // Declarar variables y luego inicializadas a cero.
-            float num1 = 0; float num2 = 0;
+            double num1 = 0; double num2 = 0;
 
             // Mostrar título de la aplicación calculator de consola C#
             Console.WriteLine("Calculadora de consola en C#\r");
@@ -32,11 +32,11 @@ namespace calculator
 
             // Solicimos al usuario que ingrese el primer número.
             Console.WriteLine("Escriba un número y presione Intro");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToDouble(Console.ReadLine());
 
             // Solicimos al usuario que ingrese el segundo número.
             Console.WriteLine("Escriba otro número y presione Intro");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            num2 = Convert.ToDouble(Console.ReadLine());
 
             // Pedimos al usuario que elija una opción.
             Console.WriteLine("Elija una opción de la siguiente lista:");
