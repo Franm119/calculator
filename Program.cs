@@ -59,6 +59,12 @@ namespace calculator
                     Console.WriteLine($"Tu resultado: {num1} * {num2} = " + (num1 * num2));
                     break;
                 case "d":
+                    // Solicitar al usuario que ingrese un divisor que no sea cero, hasta que lo realice.
+                    while (num2 == 0)
+                    {
+                        Console.WriteLine("Introduzca un divisor distinto de cero");
+                        num2 = Convert.ToInt32(Console.ReadLine());
+                    }
                     Console.WriteLine($"Tu resultado: {num1} / {num2} = " + (num1 / num2));
                     break;
             }
