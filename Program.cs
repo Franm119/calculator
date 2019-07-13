@@ -24,7 +24,7 @@ namespace calculator
         static void Main(string[] args)
         {
             // Declarar variables y luego inicializadas a cero.
-            int num1 = 0; int num2 = 0;
+            float num1 = 0; float num2 = 0;
 
             // Mostrar título de la aplicación calculator de consola C#
             Console.WriteLine("Calculadora de consola en C#\r");
